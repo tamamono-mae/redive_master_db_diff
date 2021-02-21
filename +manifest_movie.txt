@@ -319,7 +319,7 @@ m/view_gacha_special_500051_s.usm,a9b0ebaec990f315b5543ea036d8fa94,common,256627
 m/view_gacha_special_500061.usm,9a3a163702a810bbbd86d55cbf5502c6,common,55076192,
 m/view_gacha_special_500061_s.usm,e33b83738f965200ca37cdfc20e1143d,common,55014080,
 m/view_gacha_special_500067.usm,eab18116fefb330cc932a2f60b4527b3,common,4630336,
-m/view_gacha_special_500067_s.usm,c0637bd3921f3bec4d4e24122fa5b0bb,common,56199072,
+m/view_gacha_special_500067_s.usm,beae018fd326d2a1f89c347a66c57ea1,common,56127008,
 m/view_gacha_special_600001.usm,87079901450c21aa0690b6884756b473,common,19498240,
 m/view_gacha_special_700001.usm,a5f2fb7ecc174dd608a2f72743a17a15,common,19926176,
 m/view_gacha_tutorial_100001.usm,fb365c09ccddbde0f15080c71746c2ef,tutorial2,13977632,
