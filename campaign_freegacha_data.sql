@@ -71,5 +71,14 @@ INSERT INTO `campaign_freegacha_data` VALUES (/*id*/69, /*campaign_id*/21, /*gac
 INSERT INTO `campaign_freegacha_data` VALUES (/*id*/70, /*campaign_id*/21, /*gacha_id*/30164);
 INSERT INTO `campaign_freegacha_data` VALUES (/*id*/71, /*campaign_id*/21, /*gacha_id*/30166);
 INSERT INTO `campaign_freegacha_data` VALUES (/*id*/72, /*campaign_id*/21, /*gacha_id*/30167);
+<<<<<<< HEAD
 INSERT INTO `campaign_freegacha_data` VALUES (/*id*/73, /*campaign_id*/22, /*gacha_id*/30170);
 INSERT INTO `campaign_freegacha_data` VALUES (/*id*/74, /*campaign_id*/22, /*gacha_id*/30171);
+=======
+<<<<<<< HEAD
+=======
+INSERT INTO `campaign_freegacha_data` VALUES (/*id*/73, /*campaign_id*/22, /*gacha_id*/30170);
+INSERT INTO `campaign_freegacha_data` VALUES (/*id*/74, /*campaign_id*/22, /*gacha_id*/30171);
+INSERT INTO `campaign_freegacha_data` VALUES (/*id*/75, /*campaign_id*/22, /*gacha_id*/50172);
+>>>>>>> e5fe119... 10034600
+>>>>>>> ca465a5... 10034600
