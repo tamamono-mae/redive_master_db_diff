@@ -16,9 +16,21 @@ manifest/font2_assetmanifest,2c0c0fefc055c8b26bf7d942fc2527ff,every,239,
 manifest/howtoplay2_assetmanifest,a10e83515d63291977c87d4f48204f35,every,11044,
 manifest/icon2_assetmanifest,a166fda3efbbf6853fadd928c12ac5ea,every,750676,
 manifest/jukebox2_assetmanifest,5eec7b7ff38582b9e604e64feb9a3bf7,every,16848,
+<<<<<<< HEAD
 manifest/lipsyncothers2_assetmanifest,ac701bb895c844864d849187728b2147,every,119742,
 manifest/loginbonus2_assetmanifest,f8b440f44507c480e2d7ef82ab73026d,every,5224,
 manifest/masterdata_assetmanifest,f65bf0eb9b9032212a8173eef72dbd66,every,76,
+=======
+<<<<<<< HEAD
+manifest/lipsyncothers2_assetmanifest,53fc139a861d9e0c8fc30e9df6fce54e,every,119185,
+manifest/loginbonus2_assetmanifest,f8b440f44507c480e2d7ef82ab73026d,every,5224,
+manifest/masterdata_assetmanifest,ef5a119fa6c2e9f7fb25749e0f516244,every,76,
+=======
+manifest/lipsyncothers2_assetmanifest,11875e234e8e3795c980fc8a968080c8,every,121652,
+manifest/loginbonus2_assetmanifest,07924485fdbb35316e397114e3cb012c,every,5310,
+manifest/masterdata_assetmanifest,dcdfdcd68d7e41e8d417e6dba13ae92c,every,76,
+>>>>>>> eb888c1... 10034610
+>>>>>>> fbee741... 10034610
 manifest/minigame2_assetmanifest,f583bc94afcc58caa105c7f1ec193a51,every,23330,
 manifest/resourcedefine2_assetmanifest,c3b08f635ca3f34ce9bb2cc80a2ee00b,every,271,
 manifest/room2_assetmanifest,ea4ab217890346b040ad6fc681f801ff,every,154829,
