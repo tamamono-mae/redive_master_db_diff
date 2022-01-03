@@ -277,13 +277,7 @@ INSERT INTO `voice_group` VALUES (/*group_id*/30151, /*group_id_comment*/"イオ
 INSERT INTO `voice_group` VALUES (/*group_id*/30152, /*group_id_comment*/"クウカ（ノワール）（カリン掛け合い用）", /*group_unit_id_01*/118501001, /*group_unit_id_02*/319101001, /*group_unit_id_03*/0, /*group_unit_id_04*/0, /*group_unit_id_05*/0);
 INSERT INTO `voice_group` VALUES (/*group_id*/30153, /*group_id_comment*/"ミヤコ（クリスマス）（カリン掛け合い用）", /*group_unit_id_01*/118501001, /*group_unit_id_02*/319901001, /*group_unit_id_03*/0, /*group_unit_id_04*/0, /*group_unit_id_05*/0);
 INSERT INTO `voice_group` VALUES (/*group_id*/30154, /*group_id_comment*/"マヒル（クリスマス）（カリン掛け合い用）", /*group_unit_id_01*/118501001, /*group_unit_id_02*/319201001, /*group_unit_id_03*/0, /*group_unit_id_04*/0, /*group_unit_id_05*/0);
-<<<<<<< HEAD
-INSERT INTO `voice_group` VALUES (/*group_id*/30155, /*group_id_comment*/"リノ（クリスマス）（カリン掛け合い用）", /*group_unit_id_01*/118501001, /*group_unit_id_02*/319301001, /*group_unit_id_03*/0, /*group_unit_id_04*/0, /*group_unit_id_05*/0);
-=======
-<<<<<<< HEAD
-=======
 INSERT INTO `voice_group` VALUES (/*group_id*/30155, /*group_id_comment*/"リノ（クリスマス）（カリン掛け合い用）", /*group_unit_id_01*/118501001, /*group_unit_id_02*/319301001, /*group_unit_id_03*/0, /*group_unit_id_04*/0, /*group_unit_id_05*/0);
 INSERT INTO `voice_group` VALUES (/*group_id*/30156, /*group_id_comment*/"ルカ（ニューイヤー）（カリン掛け合い用）", /*group_unit_id_01*/118501001, /*group_unit_id_02*/320801001, /*group_unit_id_03*/0, /*group_unit_id_04*/0, /*group_unit_id_05*/0);
 INSERT INTO `voice_group` VALUES (/*group_id*/30157, /*group_id_comment*/"ミソギミミキョウカ（カリン掛け合い用）", /*group_unit_id_01*/118501001, /*group_unit_id_02*/380801001, /*group_unit_id_03*/0, /*group_unit_id_04*/0, /*group_unit_id_05*/0);
->>>>>>> e5fe119... 10034600
->>>>>>> ca465a5... 10034600
+INSERT INTO `voice_group` VALUES (/*group_id*/30158, /*group_id_comment*/"シェフィ（ニューイヤー）（カリン掛け合い用）", /*group_unit_id_01*/118501001, /*group_unit_id_02*/320701001, /*group_unit_id_03*/0, /*group_unit_id_04*/0, /*group_unit_id_05*/0);

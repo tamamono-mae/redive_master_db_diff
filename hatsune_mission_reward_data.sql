@@ -5226,11 +5226,6 @@ INSERT INTO `hatsune_mission_reward_data` VALUES (/*id*/10080069, /*mission_rewa
 INSERT INTO `hatsune_mission_reward_data` VALUES (/*id*/10080070, /*mission_reward_id*/81080007, /*reward_type*/2, /*reward_id*/31192, /*reward_num*/2);
 INSERT INTO `hatsune_mission_reward_data` VALUES (/*id*/10080071, /*mission_reward_id*/81080007, /*reward_type*/8, /*reward_id*/91002, /*reward_num*/30);
 INSERT INTO `hatsune_mission_reward_data` VALUES (/*id*/10080072, /*mission_reward_id*/81080008, /*reward_type*/8, /*reward_id*/91002, /*reward_num*/100);
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
->>>>>>> ca465a5... 10034600
 INSERT INTO `hatsune_mission_reward_data` VALUES (/*id*/10081001, /*mission_reward_id*/61081001, /*reward_type*/2, /*reward_id*/60802, /*reward_num*/5);
 INSERT INTO `hatsune_mission_reward_data` VALUES (/*id*/10081002, /*mission_reward_id*/61081002, /*reward_type*/2, /*reward_id*/60802, /*reward_num*/5);
 INSERT INTO `hatsune_mission_reward_data` VALUES (/*id*/10081003, /*mission_reward_id*/71081001, /*reward_type*/8, /*reward_id*/91002, /*reward_num*/30);
@@ -5301,8 +5296,6 @@ INSERT INTO `hatsune_mission_reward_data` VALUES (/*id*/10081067, /*mission_rewa
 INSERT INTO `hatsune_mission_reward_data` VALUES (/*id*/10081068, /*mission_reward_id*/81081007, /*reward_type*/2, /*reward_id*/31146, /*reward_num*/1);
 INSERT INTO `hatsune_mission_reward_data` VALUES (/*id*/10081069, /*mission_reward_id*/81081007, /*reward_type*/8, /*reward_id*/91002, /*reward_num*/25);
 INSERT INTO `hatsune_mission_reward_data` VALUES (/*id*/10081070, /*mission_reward_id*/81081008, /*reward_type*/8, /*reward_id*/91002, /*reward_num*/50);
-<<<<<<< HEAD
-=======
 INSERT INTO `hatsune_mission_reward_data` VALUES (/*id*/10082001, /*mission_reward_id*/61082001, /*reward_type*/2, /*reward_id*/60812, /*reward_num*/5);
 INSERT INTO `hatsune_mission_reward_data` VALUES (/*id*/10082002, /*mission_reward_id*/61082002, /*reward_type*/2, /*reward_id*/60812, /*reward_num*/5);
 INSERT INTO `hatsune_mission_reward_data` VALUES (/*id*/10082003, /*mission_reward_id*/71082001, /*reward_type*/8, /*reward_id*/91002, /*reward_num*/30);
@@ -5373,6 +5366,4 @@ INSERT INTO `hatsune_mission_reward_data` VALUES (/*id*/10082067, /*mission_rewa
 INSERT INTO `hatsune_mission_reward_data` VALUES (/*id*/10082068, /*mission_reward_id*/81082007, /*reward_type*/2, /*reward_id*/31208, /*reward_num*/2);
 INSERT INTO `hatsune_mission_reward_data` VALUES (/*id*/10082069, /*mission_reward_id*/81082007, /*reward_type*/8, /*reward_id*/91002, /*reward_num*/30);
 INSERT INTO `hatsune_mission_reward_data` VALUES (/*id*/10082070, /*mission_reward_id*/81082008, /*reward_type*/8, /*reward_id*/91002, /*reward_num*/100);
->>>>>>> e5fe119... 10034600
->>>>>>> ca465a5... 10034600
 CREATE INDEX 'hatsune_mission_reward_data_0_mission_reward_id' on 'hatsune_mission_reward_data'('mission_reward_id');

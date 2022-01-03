@@ -1599,11 +1599,6 @@ INSERT INTO `hatsune_quest_condition` VALUES (/*quest_id*/10080202, /*event_id*/
 INSERT INTO `hatsune_quest_condition` VALUES (/*quest_id*/10080203, /*event_id*/10080, /*condition_quest_id_1*/10080202, /*condition_quest_id_2*/0, /*condition_boss_id_1*/0, /*condition_boss_id_2*/0, /*release_quest_id_1*/10080204, /*release_quest_id_2*/0, /*release_boss_id_1*/0, /*release_boss_id_2*/0, /*condition_main_quest_id*/0);
 INSERT INTO `hatsune_quest_condition` VALUES (/*quest_id*/10080204, /*event_id*/10080, /*condition_quest_id_1*/10080203, /*condition_quest_id_2*/0, /*condition_boss_id_1*/0, /*condition_boss_id_2*/0, /*release_quest_id_1*/10080205, /*release_quest_id_2*/0, /*release_boss_id_1*/0, /*release_boss_id_2*/0, /*condition_main_quest_id*/0);
 INSERT INTO `hatsune_quest_condition` VALUES (/*quest_id*/10080205, /*event_id*/10080, /*condition_quest_id_1*/10080204, /*condition_quest_id_2*/0, /*condition_boss_id_1*/0, /*condition_boss_id_2*/0, /*release_quest_id_1*/0, /*release_quest_id_2*/0, /*release_boss_id_1*/0, /*release_boss_id_2*/0, /*condition_main_quest_id*/0);
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
->>>>>>> ca465a5... 10034600
 INSERT INTO `hatsune_quest_condition` VALUES (/*quest_id*/10081101, /*event_id*/10081, /*condition_quest_id_1*/0, /*condition_quest_id_2*/0, /*condition_boss_id_1*/0, /*condition_boss_id_2*/0, /*release_quest_id_1*/10081102, /*release_quest_id_2*/0, /*release_boss_id_1*/0, /*release_boss_id_2*/0, /*condition_main_quest_id*/11002012);
 INSERT INTO `hatsune_quest_condition` VALUES (/*quest_id*/10081102, /*event_id*/10081, /*condition_quest_id_1*/10081101, /*condition_quest_id_2*/0, /*condition_boss_id_1*/0, /*condition_boss_id_2*/0, /*release_quest_id_1*/10081103, /*release_quest_id_2*/0, /*release_boss_id_1*/0, /*release_boss_id_2*/0, /*condition_main_quest_id*/0);
 INSERT INTO `hatsune_quest_condition` VALUES (/*quest_id*/10081103, /*event_id*/10081, /*condition_quest_id_1*/10081102, /*condition_quest_id_2*/0, /*condition_boss_id_1*/0, /*condition_boss_id_2*/0, /*release_quest_id_1*/10081104, /*release_quest_id_2*/0, /*release_boss_id_1*/0, /*release_boss_id_2*/0, /*condition_main_quest_id*/0);
@@ -1624,8 +1619,6 @@ INSERT INTO `hatsune_quest_condition` VALUES (/*quest_id*/10081202, /*event_id*/
 INSERT INTO `hatsune_quest_condition` VALUES (/*quest_id*/10081203, /*event_id*/10081, /*condition_quest_id_1*/10081202, /*condition_quest_id_2*/0, /*condition_boss_id_1*/0, /*condition_boss_id_2*/0, /*release_quest_id_1*/10081204, /*release_quest_id_2*/0, /*release_boss_id_1*/0, /*release_boss_id_2*/0, /*condition_main_quest_id*/0);
 INSERT INTO `hatsune_quest_condition` VALUES (/*quest_id*/10081204, /*event_id*/10081, /*condition_quest_id_1*/10081203, /*condition_quest_id_2*/0, /*condition_boss_id_1*/0, /*condition_boss_id_2*/0, /*release_quest_id_1*/10081205, /*release_quest_id_2*/0, /*release_boss_id_1*/0, /*release_boss_id_2*/0, /*condition_main_quest_id*/0);
 INSERT INTO `hatsune_quest_condition` VALUES (/*quest_id*/10081205, /*event_id*/10081, /*condition_quest_id_1*/10081204, /*condition_quest_id_2*/0, /*condition_boss_id_1*/0, /*condition_boss_id_2*/0, /*release_quest_id_1*/0, /*release_quest_id_2*/0, /*release_boss_id_1*/0, /*release_boss_id_2*/0, /*condition_main_quest_id*/0);
-<<<<<<< HEAD
-=======
 INSERT INTO `hatsune_quest_condition` VALUES (/*quest_id*/10082101, /*event_id*/10082, /*condition_quest_id_1*/0, /*condition_quest_id_2*/0, /*condition_boss_id_1*/0, /*condition_boss_id_2*/0, /*release_quest_id_1*/10082102, /*release_quest_id_2*/0, /*release_boss_id_1*/0, /*release_boss_id_2*/0, /*condition_main_quest_id*/11002012);
 INSERT INTO `hatsune_quest_condition` VALUES (/*quest_id*/10082102, /*event_id*/10082, /*condition_quest_id_1*/10082101, /*condition_quest_id_2*/0, /*condition_boss_id_1*/0, /*condition_boss_id_2*/0, /*release_quest_id_1*/10082103, /*release_quest_id_2*/0, /*release_boss_id_1*/0, /*release_boss_id_2*/0, /*condition_main_quest_id*/0);
 INSERT INTO `hatsune_quest_condition` VALUES (/*quest_id*/10082103, /*event_id*/10082, /*condition_quest_id_1*/10082102, /*condition_quest_id_2*/0, /*condition_boss_id_1*/0, /*condition_boss_id_2*/0, /*release_quest_id_1*/10082104, /*release_quest_id_2*/0, /*release_boss_id_1*/0, /*release_boss_id_2*/0, /*condition_main_quest_id*/0);
@@ -1646,6 +1639,4 @@ INSERT INTO `hatsune_quest_condition` VALUES (/*quest_id*/10082202, /*event_id*/
 INSERT INTO `hatsune_quest_condition` VALUES (/*quest_id*/10082203, /*event_id*/10082, /*condition_quest_id_1*/10082202, /*condition_quest_id_2*/0, /*condition_boss_id_1*/0, /*condition_boss_id_2*/0, /*release_quest_id_1*/10082204, /*release_quest_id_2*/0, /*release_boss_id_1*/0, /*release_boss_id_2*/0, /*condition_main_quest_id*/0);
 INSERT INTO `hatsune_quest_condition` VALUES (/*quest_id*/10082204, /*event_id*/10082, /*condition_quest_id_1*/10082203, /*condition_quest_id_2*/0, /*condition_boss_id_1*/0, /*condition_boss_id_2*/0, /*release_quest_id_1*/10082205, /*release_quest_id_2*/0, /*release_boss_id_1*/0, /*release_boss_id_2*/0, /*condition_main_quest_id*/0);
 INSERT INTO `hatsune_quest_condition` VALUES (/*quest_id*/10082205, /*event_id*/10082, /*condition_quest_id_1*/10082204, /*condition_quest_id_2*/0, /*condition_boss_id_1*/0, /*condition_boss_id_2*/0, /*release_quest_id_1*/0, /*release_quest_id_2*/0, /*release_boss_id_1*/0, /*release_boss_id_2*/0, /*condition_main_quest_id*/0);
->>>>>>> e5fe119... 10034600
->>>>>>> ca465a5... 10034600
 CREATE INDEX 'hatsune_quest_condition_0_event_id' on 'hatsune_quest_condition'('event_id');

@@ -5111,11 +5111,6 @@ INSERT INTO `room_unit_comments` VALUES (/*id*/5716, /*unit_id*/119201, /*trigge
 INSERT INTO `room_unit_comments` VALUES (/*id*/5717, /*unit_id*/119201, /*trigger*/3, /*voice_id*/15, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"この着ぐるみで\nリマリマのモノマネを\n練習してみるべか…？", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/5718, /*unit_id*/105001, /*trigger*/1, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"もっとキレイになって\nアイツにぎゃふんと\n言わせてやるんだから", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/5719, /*unit_id*/105001, /*trigger*/2, /*voice_id*/103, /*beloved_step*/12, /*time*/0, /*face_id*/1, /*description*/"アタシのこと\nどう思う？\nかわいいって…そこは\nキレイって言ってよね", /*insert_word_type*/0);
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
->>>>>>> ca465a5... 10034600
 INSERT INTO `room_unit_comments` VALUES (/*id*/5720, /*unit_id*/119301, /*trigger*/1, /*voice_id*/1, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"ハートマークの刺繍…\nは、やりすぎですかね\nいやちょっとくらい\nアピールしてみても…", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/5721, /*unit_id*/119301, /*trigger*/1, /*voice_id*/2, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"雪降らないかな～\nそしたらお兄ちゃんと\n雪だるま作ったり\nできるのに～", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/5722, /*unit_id*/119301, /*trigger*/1, /*voice_id*/3, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"プレゼントを入れる\n靴下…いくつ編んでも\n足りません～！", /*insert_word_type*/0);
@@ -5140,8 +5135,6 @@ INSERT INTO `room_unit_comments` VALUES (/*id*/5742, /*unit_id*/119301, /*trigge
 INSERT INTO `room_unit_comments` VALUES (/*id*/5743, /*unit_id*/119301, /*trigger*/3, /*voice_id*/8, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"クリスマスデートの\n必勝法…こ、これは\n読むしかないです！", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/5745, /*unit_id*/119301, /*trigger*/3, /*voice_id*/14, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"わっ、すごいです～！\nこれを飾っておけば\nクリスマスが一層\n賑やかになりますね♪", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/5746, /*unit_id*/119301, /*trigger*/3, /*voice_id*/15, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"さぷらーいずっ！\nリマちゃんじゃなくて\nリノちゃんでした～！", /*insert_word_type*/0);
-<<<<<<< HEAD
-=======
 INSERT INTO `room_unit_comments` VALUES (/*id*/5747, /*unit_id*/120601, /*trigger*/1, /*voice_id*/1, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"ミミにもミソギにも\nあの人にも頼りに\nしてもらえるように\nしっかりしなきゃ！", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/5748, /*unit_id*/120601, /*trigger*/1, /*voice_id*/2, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"ミミはにんじんを\n食べられてすごいな…\n私も見習わなきゃ\nがんばろう…！", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/5749, /*unit_id*/120601, /*trigger*/1, /*voice_id*/3, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"ミソギから怖い話\n聞いちゃった…\nうぅ…誰か一緒に\nいてくれないかな", /*insert_word_type*/0);
@@ -5230,6 +5223,26 @@ INSERT INTO `room_unit_comments` VALUES (/*id*/5844, /*unit_id*/120801, /*trigge
 INSERT INTO `room_unit_comments` VALUES (/*id*/5845, /*unit_id*/120801, /*trigger*/3, /*voice_id*/5, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"あったかいねぇ…\nこんな寒い日には\nまさに天国だよ", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/5847, /*unit_id*/120801, /*trigger*/3, /*voice_id*/7, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"いつも食べてる\nものでも正月に\n食べると\n新鮮な気がするね", /*insert_word_type*/0);
 INSERT INTO `room_unit_comments` VALUES (/*id*/5848, /*unit_id*/120801, /*trigger*/3, /*voice_id*/8, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"せっかくの正月休みだ\nたまにはゆっくりと\n本でも読もうかね", /*insert_word_type*/0);
->>>>>>> e5fe119... 10034600
->>>>>>> ca465a5... 10034600
+INSERT INTO `room_unit_comments` VALUES (/*id*/5850, /*unit_id*/120701, /*trigger*/1, /*voice_id*/1, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"新年のあいさつ…\n私も街のみんなに\nしてみようかしら…", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/5851, /*unit_id*/120701, /*trigger*/1, /*voice_id*/2, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"正月はゆっくり過ごす\nのよね…ゆっくりって\n何したらいいのかしら", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/5852, /*unit_id*/120701, /*trigger*/1, /*voice_id*/3, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"この格好も\n慣れてくれば\n動きやすいわ", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/5853, /*unit_id*/120701, /*trigger*/1, /*voice_id*/4, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"う～ん、今年の抱負…\nやりたいことが\nたくさんあるのよね", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/5854, /*unit_id*/120701, /*trigger*/1, /*voice_id*/5, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"おせち料理\nネビアの分も\n用意しなくちゃね", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/5855, /*unit_id*/120701, /*trigger*/1, /*voice_id*/101, /*beloved_step*/4, /*time*/0, /*face_id*/1, /*description*/"ふふっ\n正月っていいわね\nみんな楽しそうだもの", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/5856, /*unit_id*/120701, /*trigger*/1, /*voice_id*/102, /*beloved_step*/8, /*time*/0, /*face_id*/1, /*description*/"新年の思い出…\nこれからもっと作るわ\nそれが私の抱負よ", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/5857, /*unit_id*/120701, /*trigger*/2, /*voice_id*/1, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"今日は家で過ごすの？\nあなたと一緒なら\nきっと楽しいわね", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/5858, /*unit_id*/120701, /*trigger*/2, /*voice_id*/2, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"どう？　この格好？\nコッコロさんは\n褒めてくれたけど…", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/5859, /*unit_id*/120701, /*trigger*/2, /*voice_id*/3, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"ちょうど良かったわ\nあなたも大掃除\n手伝ってくれる？", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/5860, /*unit_id*/120701, /*trigger*/2, /*voice_id*/4, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"これから料理するけど\nお雑煮と焼き餅\nどっちが好きかしら？", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/5861, /*unit_id*/120701, /*trigger*/2, /*voice_id*/101, /*beloved_step*/4, /*time*/0, /*face_id*/1, /*description*/"『今の私』にとって\n初めての正月だもの\nあなたと楽しまないと", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/5862, /*unit_id*/120701, /*trigger*/2, /*voice_id*/102, /*beloved_step*/8, /*time*/0, /*face_id*/1, /*description*/"去年よりも今年…\nもっと成長するからね\n…お兄ちゃん♪", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/5863, /*unit_id*/120701, /*trigger*/2, /*voice_id*/1, /*beloved_step*/1, /*time*/1, /*face_id*/1, /*description*/"おはよう\nせっかくの正月だもの\n朝から楽しまないとね", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/5864, /*unit_id*/120701, /*trigger*/2, /*voice_id*/2, /*beloved_step*/1, /*time*/2, /*face_id*/1, /*description*/"ねぇ…\n良かったら正月の遊び\n教えてくれるかしら？", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/5865, /*unit_id*/120701, /*trigger*/2, /*voice_id*/3, /*beloved_step*/1, /*time*/3, /*face_id*/1, /*description*/"ふわぁ～…今日が\n終わっちゃうのが…\nもったいないわね…", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/5867, /*unit_id*/120701, /*trigger*/3, /*voice_id*/2, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"ふぅ…お参り後だから\n心地よすぎて眠って\nしまいそうだわ…", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/5868, /*unit_id*/120701, /*trigger*/3, /*voice_id*/3, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"ふふっ\nかわいいものって\n癒されるわね…", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/5869, /*unit_id*/120701, /*trigger*/3, /*voice_id*/4, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"…ん\nこれが梅の香り？\n…いい匂いね", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/5870, /*unit_id*/120701, /*trigger*/3, /*voice_id*/5, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"キャルじゃないけど…\nこのまま丸く\nなりたいところね…", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/5872, /*unit_id*/120701, /*trigger*/3, /*voice_id*/7, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"はむはむっ…♪\nせっかくの正月だもの\n堪能しなくちゃね♪", /*insert_word_type*/0);
+INSERT INTO `room_unit_comments` VALUES (/*id*/5873, /*unit_id*/120701, /*trigger*/3, /*voice_id*/8, /*beloved_step*/1, /*time*/0, /*face_id*/1, /*description*/"…ふんふん\n帯の結び方って\nこんなにあるのね…", /*insert_word_type*/0);
 CREATE INDEX 'room_unit_comments_0_unit_id' on 'room_unit_comments'('unit_id');

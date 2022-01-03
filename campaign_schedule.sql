@@ -1010,12 +1010,6 @@ INSERT INTO `campaign_schedule` VALUES (/*id*/1046, /*campaign_category*/31, /*v
 INSERT INTO `campaign_schedule` VALUES (/*id*/1047, /*campaign_category*/41, /*value*/2000.0, /*system_id*/101, /*icon_image*/40, /*start_time*/"2021/12/26 5:00:00", /*end_time*/"2021/12/31 4:59:59", /*level_id*/0, /*shiori_group_id*/0, /*duplication_order*/0);
 INSERT INTO `campaign_schedule` VALUES (/*id*/1048, /*campaign_category*/34, /*value*/2000.0, /*system_id*/103, /*icon_image*/30, /*start_time*/"2021/12/26 5:00:00", /*end_time*/"2022/01/06 4:59:59", /*level_id*/0, /*shiori_group_id*/0, /*duplication_order*/0);
 INSERT INTO `campaign_schedule` VALUES (/*id*/1049, /*campaign_category*/44, /*value*/2000.0, /*system_id*/103, /*icon_image*/40, /*start_time*/"2021/12/26 5:00:00", /*end_time*/"2022/01/06 4:59:59", /*level_id*/0, /*shiori_group_id*/0, /*duplication_order*/0);
-<<<<<<< HEAD
-INSERT INTO `campaign_schedule` VALUES (/*id*/1050, /*campaign_category*/32, /*value*/2000.0, /*system_id*/102, /*icon_image*/30, /*start_time*/"2021/12/31 05:00:00", /*end_time*/"2022/01/06 04:59:59", /*level_id*/0, /*shiori_group_id*/0, /*duplication_order*/0);
-INSERT INTO `campaign_schedule` VALUES (/*id*/1051, /*campaign_category*/42, /*value*/2000.0, /*system_id*/102, /*icon_image*/40, /*start_time*/"2021/12/31 05:00:00", /*end_time*/"2022/01/06 04:59:59", /*level_id*/0, /*shiori_group_id*/0, /*duplication_order*/0);
-=======
-<<<<<<< HEAD
-=======
 INSERT INTO `campaign_schedule` VALUES (/*id*/1050, /*campaign_category*/32, /*value*/2000.0, /*system_id*/102, /*icon_image*/30, /*start_time*/"2021/12/31 05:00:00", /*end_time*/"2022/01/06 04:59:59", /*level_id*/0, /*shiori_group_id*/0, /*duplication_order*/0);
 INSERT INTO `campaign_schedule` VALUES (/*id*/1051, /*campaign_category*/42, /*value*/2000.0, /*system_id*/102, /*icon_image*/40, /*start_time*/"2021/12/31 05:00:00", /*end_time*/"2022/01/06 04:59:59", /*level_id*/0, /*shiori_group_id*/0, /*duplication_order*/0);
 INSERT INTO `campaign_schedule` VALUES (/*id*/1052, /*campaign_category*/31, /*value*/2000.0, /*system_id*/101, /*icon_image*/30, /*start_time*/"2022/01/06 5:00:00", /*end_time*/"2022/01/11 4:59:59", /*level_id*/0, /*shiori_group_id*/0, /*duplication_order*/0);
@@ -1041,5 +1035,3 @@ INSERT INTO `campaign_schedule` VALUES (/*id*/1071, /*campaign_category*/31, /*v
 INSERT INTO `campaign_schedule` VALUES (/*id*/1072, /*campaign_category*/41, /*value*/2000.0, /*system_id*/101, /*icon_image*/40, /*start_time*/"2022/01/26 5:00:00", /*end_time*/"2022/02/01 04:59:59", /*level_id*/0, /*shiori_group_id*/0, /*duplication_order*/0);
 INSERT INTO `campaign_schedule` VALUES (/*id*/1073, /*campaign_category*/34, /*value*/2000.0, /*system_id*/103, /*icon_image*/30, /*start_time*/"2022/01/26 5:00:00", /*end_time*/"2022/02/06 04:59:59", /*level_id*/0, /*shiori_group_id*/0, /*duplication_order*/0);
 INSERT INTO `campaign_schedule` VALUES (/*id*/1074, /*campaign_category*/44, /*value*/2000.0, /*system_id*/103, /*icon_image*/40, /*start_time*/"2022/01/26 5:00:00", /*end_time*/"2022/02/06 04:59:59", /*level_id*/0, /*shiori_group_id*/0, /*duplication_order*/0);
->>>>>>> e5fe119... 10034600
->>>>>>> ca465a5... 10034600

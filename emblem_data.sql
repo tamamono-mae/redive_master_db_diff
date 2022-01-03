@@ -558,13 +558,6 @@ INSERT INTO `emblem_data` VALUES (/*emblem_id*/10201558, /*disp_oder*/201553, /*
 INSERT INTO `emblem_data` VALUES (/*emblem_id*/10201559, /*disp_oder*/201554, /*type*/2, /*emblem_name*/"ミヤコ（クリスマス）の絆", /*description_mission_id*/56011559, /*event_emblem*/0, /*start_time*/"2018/01/01 15:00:00", /*end_time*/"2030/01/01 23:59:59");
 INSERT INTO `emblem_data` VALUES (/*emblem_id*/10201560, /*disp_oder*/201555, /*type*/2, /*emblem_name*/"すけすけサンタなの～", /*description_mission_id*/56011560, /*event_emblem*/0, /*start_time*/"2018/01/01 15:00:00", /*end_time*/"2030/01/01 23:59:59");
 INSERT INTO `emblem_data` VALUES (/*emblem_id*/10201561, /*disp_oder*/201164, /*type*/2, /*emblem_name*/"プリティレディ", /*description_mission_id*/56011561, /*event_emblem*/0, /*start_time*/"2018/01/01 15:00:00", /*end_time*/"2030/01/01 23:59:59");
-<<<<<<< HEAD
-INSERT INTO `emblem_data` VALUES (/*emblem_id*/10201562, /*disp_oder*/201556, /*type*/2, /*emblem_name*/"リノ（クリスマス）", /*description_mission_id*/56011562, /*event_emblem*/0, /*start_time*/"2018/01/01 15:00:00", /*end_time*/"2030/01/01 23:59:59");
-INSERT INTO `emblem_data` VALUES (/*emblem_id*/10201563, /*disp_oder*/201557, /*type*/2, /*emblem_name*/"リノ（クリスマス）の絆", /*description_mission_id*/56011563, /*event_emblem*/0, /*start_time*/"2018/01/01 15:00:00", /*end_time*/"2030/01/01 23:59:59");
-INSERT INTO `emblem_data` VALUES (/*emblem_id*/10201564, /*disp_oder*/201558, /*type*/2, /*emblem_name*/"聖夜を射抜く妹心", /*description_mission_id*/56011564, /*event_emblem*/0, /*start_time*/"2018/01/01 15:00:00", /*end_time*/"2030/01/01 23:59:59");
-=======
-<<<<<<< HEAD
-=======
 INSERT INTO `emblem_data` VALUES (/*emblem_id*/10201562, /*disp_oder*/201556, /*type*/2, /*emblem_name*/"リノ（クリスマス）", /*description_mission_id*/56011562, /*event_emblem*/0, /*start_time*/"2018/01/01 15:00:00", /*end_time*/"2030/01/01 23:59:59");
 INSERT INTO `emblem_data` VALUES (/*emblem_id*/10201563, /*disp_oder*/201557, /*type*/2, /*emblem_name*/"リノ（クリスマス）の絆", /*description_mission_id*/56011563, /*event_emblem*/0, /*start_time*/"2018/01/01 15:00:00", /*end_time*/"2030/01/01 23:59:59");
 INSERT INTO `emblem_data` VALUES (/*emblem_id*/10201564, /*disp_oder*/201558, /*type*/2, /*emblem_name*/"聖夜を射抜く妹心", /*description_mission_id*/56011564, /*event_emblem*/0, /*start_time*/"2018/01/01 15:00:00", /*end_time*/"2030/01/01 23:59:59");
@@ -574,8 +567,9 @@ INSERT INTO `emblem_data` VALUES (/*emblem_id*/10201567, /*disp_oder*/201561, /*
 INSERT INTO `emblem_data` VALUES (/*emblem_id*/10201568, /*disp_oder*/201562, /*type*/2, /*emblem_name*/"ルカ（ニューイヤー）", /*description_mission_id*/56011568, /*event_emblem*/0, /*start_time*/"2018/01/01 15:00:00", /*end_time*/"2030/01/01 23:59:59");
 INSERT INTO `emblem_data` VALUES (/*emblem_id*/10201569, /*disp_oder*/201563, /*type*/2, /*emblem_name*/"ルカ（ニューイヤー）の絆", /*description_mission_id*/56011569, /*event_emblem*/0, /*start_time*/"2018/01/01 15:00:00", /*end_time*/"2030/01/01 23:59:59");
 INSERT INTO `emblem_data` VALUES (/*emblem_id*/10201570, /*disp_oder*/201564, /*type*/2, /*emblem_name*/"賀春の晴天に舞う姐御", /*description_mission_id*/56011570, /*event_emblem*/0, /*start_time*/"2018/01/01 15:00:00", /*end_time*/"2030/01/01 23:59:59");
->>>>>>> e5fe119... 10034600
->>>>>>> ca465a5... 10034600
+INSERT INTO `emblem_data` VALUES (/*emblem_id*/10201571, /*disp_oder*/201565, /*type*/2, /*emblem_name*/"シェフィ（ニューイヤー）", /*description_mission_id*/56011571, /*event_emblem*/0, /*start_time*/"2018/01/01 15:00:00", /*end_time*/"2030/01/01 23:59:59");
+INSERT INTO `emblem_data` VALUES (/*emblem_id*/10201572, /*disp_oder*/201566, /*type*/2, /*emblem_name*/"シェフィ（ニューイヤー）の絆", /*description_mission_id*/56011572, /*event_emblem*/0, /*start_time*/"2018/01/01 15:00:00", /*end_time*/"2030/01/01 23:59:59");
+INSERT INTO `emblem_data` VALUES (/*emblem_id*/10201573, /*disp_oder*/201567, /*type*/2, /*emblem_name*/"晴れ着の氷竜少女", /*description_mission_id*/56011573, /*event_emblem*/0, /*start_time*/"2018/01/01 15:00:00", /*end_time*/"2030/01/01 23:59:59");
 INSERT INTO `emblem_data` VALUES (/*emblem_id*/10202001, /*disp_oder*/202001, /*type*/2, /*emblem_name*/"美食殿", /*description_mission_id*/56012001, /*event_emblem*/0, /*start_time*/"2018/01/01 15:00:00", /*end_time*/"2030/01/01 23:59:59");
 INSERT INTO `emblem_data` VALUES (/*emblem_id*/10202002, /*disp_oder*/202002, /*type*/2, /*emblem_name*/"トゥインクルウィッシュ", /*description_mission_id*/56012002, /*event_emblem*/0, /*start_time*/"2018/01/01 15:00:00", /*end_time*/"2030/01/01 23:59:59");
 INSERT INTO `emblem_data` VALUES (/*emblem_id*/10202003, /*disp_oder*/202003, /*type*/2, /*emblem_name*/"ラビリンス", /*description_mission_id*/56012003, /*event_emblem*/0, /*start_time*/"2018/01/01 15:00:00", /*end_time*/"2030/01/01 23:59:59");

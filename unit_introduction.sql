@@ -162,13 +162,7 @@ INSERT INTO `unit_introduction` VALUES (/*id*/160, /*gacha_id*/30167, /*introduc
 INSERT INTO `unit_introduction` VALUES (/*id*/161, /*gacha_id*/30168, /*introduction_number*/1, /*start_time*/"2021/11/30 12:00:00", /*end_time*/"2021/12/08 11:59:59", /*maximum_chunk_size_1*/380000, /*maximum_chunk_size_loop_1*/380000, /*maximum_chunk_size_2*/0, /*maximum_chunk_size_loop_2*/0, /*maximum_chunk_size_3*/0, /*maximum_chunk_size_loop_3*/0);
 INSERT INTO `unit_introduction` VALUES (/*id*/162, /*gacha_id*/30169, /*introduction_number*/1, /*start_time*/"2021/12/08 12:00:00", /*end_time*/"2021/12/15 14:59:59", /*maximum_chunk_size_1*/380000, /*maximum_chunk_size_loop_1*/380000, /*maximum_chunk_size_2*/0, /*maximum_chunk_size_loop_2*/0, /*maximum_chunk_size_3*/0, /*maximum_chunk_size_loop_3*/0);
 INSERT INTO `unit_introduction` VALUES (/*id*/163, /*gacha_id*/30170, /*introduction_number*/1, /*start_time*/"2021/12/15 15:00:00", /*end_time*/"2021/12/22 11:59:59", /*maximum_chunk_size_1*/380000, /*maximum_chunk_size_loop_1*/380000, /*maximum_chunk_size_2*/0, /*maximum_chunk_size_loop_2*/0, /*maximum_chunk_size_3*/0, /*maximum_chunk_size_loop_3*/0);
-<<<<<<< HEAD
-INSERT INTO `unit_introduction` VALUES (/*id*/164, /*gacha_id*/30171, /*introduction_number*/1, /*start_time*/"2021/12/22 12:00:00", /*end_time*/"2021/12/31 11:59:59", /*maximum_chunk_size_1*/380000, /*maximum_chunk_size_loop_1*/380000, /*maximum_chunk_size_2*/0, /*maximum_chunk_size_loop_2*/0, /*maximum_chunk_size_3*/0, /*maximum_chunk_size_loop_3*/0);
-=======
-<<<<<<< HEAD
-=======
 INSERT INTO `unit_introduction` VALUES (/*id*/164, /*gacha_id*/30171, /*introduction_number*/1, /*start_time*/"2021/12/22 12:00:00", /*end_time*/"2021/12/31 11:59:59", /*maximum_chunk_size_1*/380000, /*maximum_chunk_size_loop_1*/380000, /*maximum_chunk_size_2*/0, /*maximum_chunk_size_loop_2*/0, /*maximum_chunk_size_3*/0, /*maximum_chunk_size_loop_3*/0);
 INSERT INTO `unit_introduction` VALUES (/*id*/165, /*gacha_id*/50172, /*introduction_number*/2, /*start_time*/"2021/12/31 12:00:00", /*end_time*/"2022/01/03 18:59:59", /*maximum_chunk_size_1*/380000, /*maximum_chunk_size_loop_1*/0, /*maximum_chunk_size_2*/380000, /*maximum_chunk_size_loop_2*/380000, /*maximum_chunk_size_3*/0, /*maximum_chunk_size_loop_3*/0);
->>>>>>> e5fe119... 10034600
->>>>>>> ca465a5... 10034600
+INSERT INTO `unit_introduction` VALUES (/*id*/166, /*gacha_id*/30173, /*introduction_number*/1, /*start_time*/"2022/01/03 19:00:00", /*end_time*/"2022/01/11 11:59:59", /*maximum_chunk_size_1*/380000, /*maximum_chunk_size_loop_1*/380000, /*maximum_chunk_size_2*/0, /*maximum_chunk_size_loop_2*/0, /*maximum_chunk_size_3*/0, /*maximum_chunk_size_loop_3*/0);
 CREATE INDEX 'unit_introduction_0_gacha_id' on 'unit_introduction'('gacha_id');

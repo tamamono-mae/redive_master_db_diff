@@ -176,18 +176,9 @@ INSERT INTO `hatsune_special_enemy` VALUES (/*enemy_id*/610079403, /*event_id*/1
 INSERT INTO `hatsune_special_enemy` VALUES (/*enemy_id*/610080601, /*event_id*/10080, /*mode*/2, /*enemy_point*/0, /*initial_position*/-220, /*order*/0);
 INSERT INTO `hatsune_special_enemy` VALUES (/*enemy_id*/610080602, /*event_id*/10080, /*mode*/2, /*enemy_point*/0, /*initial_position*/-110, /*order*/0);
 INSERT INTO `hatsune_special_enemy` VALUES (/*enemy_id*/610080603, /*event_id*/10080, /*mode*/2, /*enemy_point*/0, /*initial_position*/0, /*order*/0);
-<<<<<<< HEAD
-INSERT INTO `hatsune_special_enemy` VALUES (/*enemy_id*/610081501, /*event_id*/10081, /*mode*/2, /*enemy_point*/0, /*initial_position*/-180, /*order*/0);
-INSERT INTO `hatsune_special_enemy` VALUES (/*enemy_id*/610081502, /*event_id*/10081, /*mode*/2, /*enemy_point*/0, /*initial_position*/20, /*order*/0);
-INSERT INTO `hatsune_special_enemy` VALUES (/*enemy_id*/610081503, /*event_id*/10081, /*mode*/2, /*enemy_point*/0, /*initial_position*/150, /*order*/0);
-=======
-<<<<<<< HEAD
-=======
 INSERT INTO `hatsune_special_enemy` VALUES (/*enemy_id*/610081501, /*event_id*/10081, /*mode*/2, /*enemy_point*/0, /*initial_position*/-180, /*order*/0);
 INSERT INTO `hatsune_special_enemy` VALUES (/*enemy_id*/610081502, /*event_id*/10081, /*mode*/2, /*enemy_point*/0, /*initial_position*/20, /*order*/0);
 INSERT INTO `hatsune_special_enemy` VALUES (/*enemy_id*/610081503, /*event_id*/10081, /*mode*/2, /*enemy_point*/0, /*initial_position*/150, /*order*/0);
 INSERT INTO `hatsune_special_enemy` VALUES (/*enemy_id*/610082501, /*event_id*/10082, /*mode*/1, /*enemy_point*/1, /*initial_position*/20, /*order*/0);
 INSERT INTO `hatsune_special_enemy` VALUES (/*enemy_id*/610082502, /*event_id*/10082, /*mode*/1, /*enemy_point*/1, /*initial_position*/140, /*order*/0);
 INSERT INTO `hatsune_special_enemy` VALUES (/*enemy_id*/610082503, /*event_id*/10082, /*mode*/1, /*enemy_point*/1, /*initial_position*/300, /*order*/0);
->>>>>>> e5fe119... 10034600
->>>>>>> ca465a5... 10034600
